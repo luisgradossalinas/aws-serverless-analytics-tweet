@@ -1,0 +1,23 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "VisualEditor0",
+            "Effect": "Allow",
+            "Action": [
+                "logs:CreateLogStream",
+                "dynamodb:BatchWriteItem",
+                "sns:Publish",
+                "comprehend:DetectSentiment",
+                "dynamodb:PutItem",
+                "kinesis:GetShardIterator",
+                "kinesis:GetRecords",
+                "kinesis:DescribeStream",
+                "comprehend:DetectDominantLanguage",
+                "logs:CreateLogGroup",
+                "logs:PutLogEvents"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
