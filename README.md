@@ -1,6 +1,6 @@
 # Análisis de sentimiento de tweets en tiempo real
 
-<img src="https://github.com/luisgradossalinas/aws-serverless-analytics-tweet/blob/master/arquitectura.PNG" width='40%'>
+<img src="https://github.com/luisgradossalinas/aws-serverless-analytics-tweet/blob/master/arquitectura.PNG" width='70%'>
 
 Si deseas realizar la implementación de esta arquitectura, he compartido todo el detalle en este post de medium.
 
